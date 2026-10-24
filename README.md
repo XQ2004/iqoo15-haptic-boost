@@ -218,3 +218,9 @@ cd D:/work/HapticBoostApp
 - v2.11：模块页新增「刷入没效果？」指引卡。
 - v2.9：新桌面图标；设置页与模块页精简。
 - v1.9：刷入即装面板 APK，并自动登记 LSPosed。
+
+## 许可证
+
+本项目采用 [MIT License](LICENSE)，版权归 © 2026 DOUYXQ 所有。
+
+模块内的 `apk/HapticBoostLSP.apk` 为预编译面板二进制；仓库中的 shell 脚本、XML 参数表与文档均以 MIT 授权，可自由修改与再分发，保留版权声明即可。
