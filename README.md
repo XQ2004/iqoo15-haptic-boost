@@ -221,6 +221,8 @@ cd D:/work/HapticBoostApp
 
 ## 许可证
 
-本项目采用 [MIT License](LICENSE)，版权归 © 2026 DOUYXQ 所有。
+本项目采用 [GNU General Public License v3.0](LICENSE)（GPL-3.0）授权，版权归 © 2026 DOUYXQ 所有。
 
-模块内的 `apk/HapticBoostLSP.apk` 为预编译面板二进制；仓库中的 shell 脚本、XML 参数表与文档均以 MIT 授权，可自由修改与再分发，保留版权声明即可。
+你可以自由使用、修改和再分发本项目，但**衍生作品必须以同样的 GPL-3.0 协议开源**，并保留版权声明；分发二进制时须同时提供对应源码。
+
+模块内的 `apk/HapticBoostLSP.apk` 为预编译面板二进制，随本仓库一并以 GPL-3.0 分发。面板完整源码按 GPL-3.0 要求提供，可通过反馈群 1131141797 向作者索取。
